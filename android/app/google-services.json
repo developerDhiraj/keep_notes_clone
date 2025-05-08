@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "292361218301",
+    "project_id": "demokeepnotes",
+    "storage_bucket": "demokeepnotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292361218301:android:9ce4813dd27a6e2ea2b694",
+        "android_client_info": {
+          "package_name": "com.example.keep_notes_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWrvLE1RyJsRR7tblB583jyA2lnuCxzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
